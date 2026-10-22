@@ -1,4 +1,4 @@
-
+st.image("tam_cam.png", use_container_width=True)
 import streamlit as st
 import random
 
@@ -201,4 +201,3 @@ else:
 
 st.markdown("---")
 st.caption("📚 Ôn tập Toán: Ba hằng đẳng thức đáng nhớ đầu tiên")
-st.image("tam_cam.png", use_container_width=True)
