@@ -1,4 +1,4 @@
-st.image("tam_cam.png", use_container_width=True)
+
 import streamlit as st
 import random
 
